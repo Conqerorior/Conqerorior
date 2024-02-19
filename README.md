@@ -9,7 +9,7 @@
 ---
 
 ### 💻 Tech Stack:
-<div id="header" align="center">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
@@ -24,7 +24,7 @@
 </div>
 
 ### 🛠 Tools:
-<div id="header" align="center">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
