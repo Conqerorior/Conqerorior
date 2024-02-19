@@ -12,10 +12,8 @@
 </table>
 
 ---
-<table>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conqerorior&theme=github" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conqerorior&theme=github" />
+
+</p>
