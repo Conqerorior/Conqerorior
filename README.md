@@ -12,5 +12,8 @@
 </table>
 
 ---
+<table>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conqerorior&theme=github" />
+
+</table>
