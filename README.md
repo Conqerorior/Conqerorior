@@ -13,4 +13,4 @@
 
 ---
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conqerorior&theme=github" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conqerorior&theme=github" />
